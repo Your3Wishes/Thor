@@ -16,7 +16,7 @@ AGoldLandMine::AGoldLandMine()
 	// Override Launch Forces For Gold Mine
 	MinLaunchX = 15000;
 	MaxLaunchX = 50000;
-	MaxLaunchZ = 10000;
+	MaxLaunchZ = 9000;
 
 
 }
